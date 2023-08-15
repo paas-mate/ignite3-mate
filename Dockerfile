@@ -1,4 +1,4 @@
-FROM ttbb/ignite:nake
+FROM ttbb/ignite3:nake
 
 COPY docker-build /opt/ignite/mate
 
